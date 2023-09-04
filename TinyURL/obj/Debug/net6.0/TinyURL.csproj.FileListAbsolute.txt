@@ -1,0 +1,15 @@
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\bin\Debug\net6.0\TinyURL.exe
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\bin\Debug\net6.0\TinyURL.deps.json
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\bin\Debug\net6.0\TinyURL.runtimeconfig.json
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\bin\Debug\net6.0\TinyURL.dll
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\bin\Debug\net6.0\TinyURL.pdb
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.csproj.AssemblyReference.cache
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.AssemblyInfoInputs.cache
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.AssemblyInfo.cs
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.csproj.CoreCompileInputs.cache
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.dll
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\refint\TinyURL.dll
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.pdb
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\TinyURL.genruntimeconfig.cache
+C:\Users\jiang\Documents\Project-Git\TinyURL\TinyURL\TinyURL\obj\Debug\net6.0\ref\TinyURL.dll
